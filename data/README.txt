@@ -1,0 +1,1 @@
+The 'data' folder stores all raw data files and any associated metadata
