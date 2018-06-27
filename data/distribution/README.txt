@@ -1,0 +1,1 @@
+Distribution data files are from IUCN/Birdlife range polygons rasterized across a 110-km2 Behrmann equal-area grid at the extent of the Americas. 
