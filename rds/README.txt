@@ -1,0 +1,1 @@
+The 'rds' folder stores all derived analysis outputs as serialized .rds R objects. .rds objects maintain exactly the same structure as the originally generated object.
