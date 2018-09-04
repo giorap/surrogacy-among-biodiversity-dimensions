@@ -2,6 +2,11 @@
 ##### -- Surrogacy among biodiversity dimensions -- #####
 #########################################################
 #################### DISPLAY ITEMS ######################
+###### Code to generate all display items for the manuscript
+###### "Species diversity as a surrogate for the conservation of phylogenetic and functional diversity in terrestrial vertebrates across the Americas" by Rapacciuolo et al.
+##### -- Set things up -- #####
+##### Create output directory
+dir.create("figures")
 #########################
 ##### -- FIGURES -- #####
 #########################
