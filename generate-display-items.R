@@ -64,6 +64,9 @@ plot_sai_by_area(tetrapods_trait_nodes_present_greedy_curves, tetrapods_trait_no
 dev.off()
 
 ##### -- FIGURE 3: DISTINCTIVENESS CHANGE WITH AREA -- #####
+#### Load required objects
+tetrapods_present_trait_distinct <- readRDS("rds/metrics/tetrapods_present_trait_distinct.rds")
+tetrapods_present_evol_distinct <- readRDS("rds/metrics/tetrapods_present_evol_distinct.rds")
 ### Distinctiveness by area
 ### Phylo
 tiff("figures/tetrapods-phylo-distinct-by-area.tif", width = 6.0, height = 6.0, units = 'in', res = 600)
